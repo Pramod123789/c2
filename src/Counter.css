@@ -1,0 +1,25 @@
+.counterContainer{
+    width:80%;
+    height: 80vh;
+    margin: auto; 
+    border:1px dashed grey;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.counterValue{
+    text-align: center;
+    font-size: 64px;
+    line-height: 70px;
+    padding: 0px;
+    margin: 10px;
+}
+.counterButton{
+    font-size:25px;
+    border-radius: 5px;
+    background-color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+    display: block;
+    margin: 10px;
+}
